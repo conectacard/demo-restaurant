@@ -9,12 +9,12 @@ const DATOS_BANCARIOS = {
 // ----------------------------------------
 
 const CONFIG = {
-    whatsapp: "5219982141767",
-    whatsappAdicional: "5219982141767",
-    sitioWeb: "https://catmaniamx.com/",
-    facebook: "https://www.facebook.com/LoncheriaMaganaAgs",
-    instagram: "https://www.tripadvisor.com/",
-    maps: "https://maps.app.goo.gl/557uW3JY2ThC4mHm9", 
+    whatsapp: "5214491472336",
+    whatsappAdicional: "5214491472336",
+    sitioWeb: "https://demo-altpro.com/",
+    facebook: "https://www.facebook.com/?locale=es_LA",
+    instagram: "https://www.instagram.com/my_sing_studio/",
+    maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9", 
     youtubeUrl: "https://www.youtube.com/watch?v=YDXEhWaAGyI",
     textos: {
         cat1: { t: "QUIÉNES SOMOS", c: "Fundados con la misión de llevar el mejor sabor a tu mesa. Destacamos por nuestro sazón inigualable, precios accesibles y una variedad de especialidades preparadas al momento. El lugar ideal para disfrutar de una excelente comida todos los días." },
@@ -22,12 +22,12 @@ const CONFIG = {
         cat3: { t: "CLIENTES FELICES", c: "Nuestros clientes, tanto locales como los que nos visitan de fuera, nunca dejan de saborear nuestro exquisito menú, reconociendo la tradición y la calidad de nuestro sazón en cada una de nuestras sucursales." }
     },
     sucursales: {
-        suc1: { nombre: "Sucursal San Juan", wa: "5219982141767", maps: "https://maps.google.com/?q=San+Juan+de+los+Lagos" },
-        suc2: { nombre: "Sucursal HEB", wa: "5219982141767", maps: "https://maps.google.com/?q=HEB" },
-        suc3: { nombre: "Sucursal Nacozari", wa: "5219982141767", maps: "https://maps.google.com/?q=Nacozari" },
-        suc4: { nombre: "Sucursal Villerias", wa: "5219982141767", maps: "https://maps.google.com/?q=Villerias" },
-        suc5: { nombre: "Sucursal Centro", wa: "5219982141767", maps: "https://maps.google.com/?q=Centro" },
-        suc6: { nombre: "Sucursal Américas", wa: "5219982141767", maps: "https://maps.google.com/?q=Americas" }
+        suc1: { nombre: "Sucursal 1", wa: "5214491472336", maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9" },
+        suc2: { nombre: "Sucursal 2", wa: "5214491472336", maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9" },
+        suc3: { nombre: "Sucursal 3", wa: "5214491472336", maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9" },
+        suc4: { nombre: "Sucursal 4", wa: "5214491472336", maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9" },
+        suc5: { nombre: "Sucursal 5", wa: "5214491472336", maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9" },
+        suc6: { nombre: "Sucursal 6", wa: "5214491472336", maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9" }
     }
 };
 
